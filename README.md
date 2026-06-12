@@ -1,7 +1,7 @@
 Here is the updated README tailored to reflect your new Agentic architecture, highlighting the specific upgrades to the RAG pipeline, vector services, LLM tool integration, and the upload router.
 
 ```md
-# 🚀 RAG-AI-Optimizer (Agentic Upgrade)
+# 🚀 RAG-AI-Agents (Agentic Upgrade)
 
 An autonomous, multi-agent system that automates the analysis of complex **Request for Quotation (RFQ)** documents. By upgrading from a standard RAG pipeline to an **Agentic ReAct (Reason → Act → Observe)** framework, the system now autonomously selects tools, queries databases, and synthesizes cross-document engineering insights.
 
