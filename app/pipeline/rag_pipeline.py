@@ -1,9 +1,3 @@
-"""
-RFQ AI System - Unified Pipeline
-Handles single-file processing, concurrent bundle orchestrations, 
-and engineering conflict detection.
-"""
-
 import os
 import re
 import json
