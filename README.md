@@ -1,5 +1,5 @@
 
-# 🚀 RAG-AI-Agents (Agentic Upgrade)
+# 🚀 RAG-AI-Agent (Agentic Upgrade)
 
 An autonomous, multi-agent system that automates the analysis of complex **Request for Quotation (RFQ)** documents. By upgrading from a standard RAG pipeline to an **Agentic ReAct (Reason → Act → Observe)** framework, the system now autonomously selects tools, queries databases, and synthesizes cross-document engineering insights.
 
@@ -147,5 +147,5 @@ Structured Answer + Citations + Risk Insights
 
 ## 👩‍💻 Author
 
-**Jaya Rajput** Full Stack Developer | AI/ML Enthusiast
+**Jaya **  | AI/ML Enthusiast
 ```"# RAG-AI-Agent" 
