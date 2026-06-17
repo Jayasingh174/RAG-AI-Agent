@@ -1,5 +1,5 @@
 """
-RAG AI System - Document State Manager
+Document State Manager
 Handles reading the actual file system to ensure the UI is always
 in sync with the hard drive.
 """
