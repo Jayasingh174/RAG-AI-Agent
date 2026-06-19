@@ -8,7 +8,6 @@ import logging
 from rank_bm25 import BM25Okapi
 from typing import Optional
 
-# Set up simple logging so you can see what the code is doing in your terminal
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 logger = logging.getLogger(__name__)
 
